@@ -1,0 +1,3 @@
+npm install vuedraggable -S
+npm install axios -S
+npm i element-ui -S
